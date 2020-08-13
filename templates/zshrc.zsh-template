@@ -98,10 +98,10 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 ip=proxy.dopwn.cn
-ip=127.0.0.1
+#ip=127.0.0.1
 port_s=1080
 port_h=8080
-port_h=1080
+#port_h=1080
 alias proxy='export all_proxy=socks5://$ip:$port_s/'
 alias http_proxy='export all_proxy=http://$ip:$port_h/'
 alias https_proxy='export all_proxy=http://$ip:$port_h/'
