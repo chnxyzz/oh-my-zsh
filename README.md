@@ -1,5 +1,16 @@
 ## Getting Started
 
+### ready
+apt
+```bash
+apt-get install wget autojump zsh curl git -y;
+```
+
+yum
+```bash
+yum install wget autojump zsh curl git -y;
+```
+
 ### Basic Installation
 
 Oh My Zsh is installed by running one of the following commands in your terminal. You can install this via the command-line with either `curl` or `wget`.
